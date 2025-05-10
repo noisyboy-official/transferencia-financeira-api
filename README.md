@@ -98,10 +98,6 @@ transferencia-financeira-api/
 └── README.md
 ```
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👨‍💻 Autor
 
 - **Gabriel Aguiar** - [noisyboy-official](https://github.com/noisyboy-official)
